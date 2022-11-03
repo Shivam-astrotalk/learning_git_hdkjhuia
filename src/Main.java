@@ -10,6 +10,12 @@ public class Main {
 
         System.out.println("Hey you are great");
         System.out.println("Hey you are great");System.out.println("Hey you are great");
+        System.out.println("Hey you are great");
+        System.out.println("Hey you are great");System.out.println("Hey you are great");
+        System.out.println("I am a programmer");
+
+        System.out.println("Hey you are");
+
 
 
 
